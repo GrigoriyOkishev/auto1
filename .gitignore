@@ -2,3 +2,8 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+*.xml
+/.idea/
+auto1/
+src/main/java/ru/stqa/auto/MyFirstProgram.java
+*.java
